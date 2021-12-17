@@ -4,8 +4,7 @@ const CONFIG = {
     introDesc: `Và đây là thay những gì muốn nói`,
     btnIntro: '^^HiHi^^',
     title: 'Thực ra tôi muốn nói là:',
-    desc: 'Tôi thực sự thích cậu ',
-    desc: 'Chọn câu trả lời đê'
+    desc: 'Tôi thực sự thích cậu, cậu có thể chọn câu trả lời',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'HeHe kiểu gì cũng phải chọn thích thôi',
